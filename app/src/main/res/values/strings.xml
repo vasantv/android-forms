@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FormPost</string>
+
+    <string name="hello_world">Simple form filling example</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_submit_text">Submit</string>
+</resources>
